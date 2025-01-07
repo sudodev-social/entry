@@ -1,6 +1,8 @@
 # Welcome to SudoDev
 
+
 **Empowering Business Owners to Take Control of Their Online Space**
+
 
 ## 👋 About SudoDev
 
@@ -12,12 +14,14 @@ SudoDev is an open-source initiative designed to help business owners, freelance
 
 It’s not just about tech — it’s about reclaiming your autonomy in the digital world.
 
+
 ## 🔧 What You'll Discover Along the Way
 
 This is a journey for tech enthusiasts looking to understand the building blocks of managing their own online presence. We start with the essentials: navigating servers, configuring domains, and understanding how everything connects. Step by step, we'll explore ways to automate tasks, enhance security, and streamline your digital world.
 
 It’s not just about learning tools — it’s about developing a mindset. You’ll gain the confidence to take control of your tech space, empowering yourself to manage and grow it sustainably. As the community grows, we’ll build projects together, share ideas, and evolve in a way that benefits everyone involved.
 At SudoDev, the focus is on building a strong foundation that gradually leads to more advanced concepts. You’ll start with understanding the basics of server management, command-line tools, and DNS setup. As you progress, you’ll explore how to deploy and manage different applications, automate workflows, and improve your digital presence.
+
 
 ## 💡 How to Get Involved
 
@@ -27,6 +31,7 @@ Once you’re in, subscribe to the newsletter to stay updated on the latest guid
 
 From there, the journey is about learning and growing together. As you get more comfortable, there will be opportunities to build projects as a community, explore new ideas, and deepen your understanding of managing your own digital space.
 
+
 ## 🛠️ Services Offered
 
 While SudoDev is open-source, additional services are available for those seeking a more personalized experience:
@@ -34,6 +39,7 @@ While SudoDev is open-source, additional services are available for those seekin
 - **One-on-One Consulting**: Hands-on help tailored to your specific needs.
 - **Business Automation**: Tailored automation ideas to streamline your business processes.
 - **Group Sessions**: Monthly group calls covering new tools, workflows, and Q&A.
+
 
 ## 📚 Free Resources
 
@@ -43,6 +49,7 @@ Free, open-source guides are available on my GitHub covering topics such as:
 - Basic sysadmin skills for beginners.
 - Creating business workflows using n8n.
 
+
 ## 💰 Future Plans
 
 A low-cost premium subscription will be available for those who want more in-depth guidance. For just \$14.95/month, subscribers will get:
@@ -50,6 +57,7 @@ A low-cost premium subscription will be available for those who want more in-dep
 - Access to private community forums
 - Exclusive tutorials and resources
 - Priority consulting slots
+
 
 ## 🧩 Let's Connect
 
