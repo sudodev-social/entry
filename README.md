@@ -63,8 +63,8 @@ A low-cost premium subscription will be available for those who want more in-dep
 
 SudoDev is about building a community of learners and doers. Let’s connect and collaborate!
 
-- **Twitter**: [@sudodev](https://twitter.com/sudodev)
-- **GitHub**: [SudoDev](https://github.com/sudodev)
+- **Twitter**: [@sudodev](https://x.com/sudodevsocial)
+- **GitHub**: [SudoDev](https://github.com/sudodev-social)
 - **Newsletter**: Subscribe to get the latest guides and updates.
 
 Together, we can build a more autonomous digital world where YOU are in control.
