@@ -39,9 +39,9 @@ While SudoDev is open-source, additional services are available for those seekin
 
 Free, open-source guides are available on my GitHub covering topics such as:
 
-- Setting up your first self-hosted automation tool
-- Basic sysadmin skills for beginners
-- Creating business workflows using n8n and Kestra
+- Setting up your first self-hosted automation tool.
+- Basic sysadmin skills for beginners.
+- Creating business workflows using n8n.
 
 ## 💰 Future Plans
 
