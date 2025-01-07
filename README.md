@@ -45,12 +45,12 @@ While SudoDev is open-source, additional services are available for those seekin
 
 Free, open-source guides are available on my GitHub covering topics such as:
 
-- Setting up your first self-hosted automation tool.
-- Basic sysadmin skills for beginners.
-- Creating business workflows using n8n.
+- [Setting up your first self-hosted automation tool](./start-here/self-hosted-automation-guide.md)  
+- [Basic sysadmin skills for beginners](./start-here/basic-sysadmin-skills.md) 
+- [Creating business workflows using n8n](./start-here/n8n-business-workflows.md) 
 
 
-## 💰 Future Plans
+## 💰 Future Plans (Proposed plan)
 
 A low-cost premium subscription will be available for those who want more in-depth guidance. For just \$14.95/month, subscribers will get:
 
@@ -61,11 +61,11 @@ A low-cost premium subscription will be available for those who want more in-dep
 
 ## 🧩 Let's Connect
 
-SudoDev is about building a community of learners and doers. Let’s connect and collaborate!
+SudoDev is about building a community of learners and doers first. Let’s connect and collaborate!
 
 - **Twitter**: [@sudodev](https://x.com/sudodevsocial)
 - **GitHub**: [SudoDev](https://github.com/sudodev-social)
-- **Newsletter**: Subscribe to get the latest guides and updates.
+- **Newsletter**: Subscribe to get the latest guides and updates - *COMING SOON*
 
 Together, we can build a more autonomous digital world where YOU are in control.
 
